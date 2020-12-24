@@ -1,0 +1,1578 @@
+1901  station: 00029070
+	 Temp maxi = 	6
+	 Temp mini = 	4
+1901  station: 00029500
+	 Temp maxi = 	18
+	 Temp mini = 	-7
+1901  station: 00029600
+	 Temp maxi = 	20
+	 Temp mini = 	20
+1901  station: 00029720
+	 Temp maxi = 	7
+	 Temp mini = 	7
+1901  station: 29029070
+	 Temp maxi = 	22
+	 Temp mini = 	-25
+1901  station: 29029500
+	 Temp maxi = 	27
+	 Temp mini = 	-22
+1901  station: 29029600
+	 Temp maxi = 	30
+	 Temp mini = 	-27
+1901  station: 29029720
+	 Temp maxi = 	31
+	 Temp mini = 	-23
+1901  station: 29029810
+	 Temp maxi = 	29
+	 Temp mini = 	-10
+1901  station: 29227070
+	 Temp maxi = 	30
+	 Temp mini = 	-33
+1901  station: 35029070
+	 Temp maxi = 	23
+	 Temp mini = 	-17
+1901  station: 35029600
+	 Temp maxi = 	26
+	 Temp mini = 	-17
+1901  station: 35029810
+	 Temp maxi = 	20
+	 Temp mini = 	-10
+1901  station: 48029810
+	 Temp maxi = 	8
+	 Temp mini = 	7
+1902  station: 00029500
+	 Temp maxi = 	16
+	 Temp mini = 	-2
+1902  station: 00029600
+	 Temp maxi = 	15
+	 Temp mini = 	0
+1902  station: 00029720
+	 Temp maxi = 	21
+	 Temp mini = 	0
+1902  station: 00029810
+	 Temp maxi = 	2
+	 Temp mini = 	2
+1902  station: 29029070
+	 Temp maxi = 	15
+	 Temp mini = 	-26
+1902  station: 29029500
+	 Temp maxi = 	20
+	 Temp mini = 	-24
+1902  station: 29029600
+	 Temp maxi = 	20
+	 Temp mini = 	-32
+1902  station: 29029720
+	 Temp maxi = 	22
+	 Temp mini = 	-26
+1902  station: 29029810
+	 Temp maxi = 	17
+	 Temp mini = 	-12
+1902  station: 29227070
+	 Temp maxi = 	24
+	 Temp mini = 	-32
+1902  station: 35029070
+	 Temp maxi = 	13
+	 Temp mini = 	-23
+1902  station: 35029600
+	 Temp maxi = 	16
+	 Temp mini = 	-15
+1902  station: 35029810
+	 Temp maxi = 	15
+	 Temp mini = 	-10
+1902  station: 35227070
+	 Temp maxi = 	21
+	 Temp mini = 	-21
+1902  station: 48029600
+	 Temp maxi = 	2
+	 Temp mini = 	2
+1903  station: 00029070
+	 Temp maxi = 	6
+	 Temp mini = 	6
+1903  station: 00029500
+	 Temp maxi = 	21
+	 Temp mini = 	2
+1903  station: 00029600
+	 Temp maxi = 	24
+	 Temp mini = 	-2
+1903  station: 00029810
+	 Temp maxi = 	12
+	 Temp mini = 	12
+1903  station: 09029070
+	 Temp maxi = 	11
+	 Temp mini = 	10
+1903  station: 29029070
+	 Temp maxi = 	17
+	 Temp mini = 	-19
+1903  station: 29029500
+	 Temp maxi = 	21
+	 Temp mini = 	-16
+1903  station: 29029600
+	 Temp maxi = 	25
+	 Temp mini = 	-27
+1903  station: 29029720
+	 Temp maxi = 	26
+	 Temp mini = 	-21
+1903  station: 29029810
+	 Temp maxi = 	21
+	 Temp mini = 	-8
+1903  station: 29227070
+	 Temp maxi = 	28
+	 Temp mini = 	-30
+1903  station: 35029070
+	 Temp maxi = 	14
+	 Temp mini = 	-12
+1903  station: 35029600
+	 Temp maxi = 	17
+	 Temp mini = 	-11
+1903  station: 35029810
+	 Temp maxi = 	15
+	 Temp mini = 	-7
+1903  station: 35227070
+	 Temp maxi = 	22
+	 Temp mini = 	-20
+1903  station: 48029500
+	 Temp maxi = 	-1
+	 Temp mini = 	-1
+1903  station: 48029600
+	 Temp maxi = 	16
+	 Temp mini = 	-7
+1904  station: 00029500
+	 Temp maxi = 	15
+	 Temp mini = 	-11
+1904  station: 00029600
+	 Temp maxi = 	15
+	 Temp mini = 	-3
+1904  station: 00029720
+	 Temp maxi = 	9
+	 Temp mini = 	-14
+1904  station: 00029810
+	 Temp maxi = 	12
+	 Temp mini = 	-13
+1904  station: 00227070
+	 Temp maxi = 	-3
+	 Temp mini = 	-3
+1904  station: 09029600
+	 Temp maxi = 	0
+	 Temp mini = 	-6
+1904  station: 09029810
+	 Temp maxi = 	12
+	 Temp mini = 	-6
+1904  station: 19029810
+	 Temp maxi = 	3
+	 Temp mini = 	3
+1904  station: 29029070
+	 Temp maxi = 	17
+	 Temp mini = 	-19
+1904  station: 29029500
+	 Temp maxi = 	19
+	 Temp mini = 	-23
+1904  station: 29029600
+	 Temp maxi = 	24
+	 Temp mini = 	-29
+1904  station: 29029720
+	 Temp maxi = 	25
+	 Temp mini = 	-25
+1904  station: 29029810
+	 Temp maxi = 	18
+	 Temp mini = 	-12
+1904  station: 29227070
+	 Temp maxi = 	25
+	 Temp mini = 	-28
+1904  station: 35029070
+	 Temp maxi = 	14
+	 Temp mini = 	-14
+1904  station: 35029600
+	 Temp maxi = 	16
+	 Temp mini = 	-12
+1904  station: 35029720
+	 Temp maxi = 	13
+	 Temp mini = 	-10
+1904  station: 35029810
+	 Temp maxi = 	13
+	 Temp mini = 	-8
+1905  station: 00029500
+	 Temp maxi = 	17
+	 Temp mini = 	-2
+1905  station: 00029600
+	 Temp maxi = 	21
+	 Temp mini = 	21
+1905  station: 00029720
+	 Temp maxi = 	23
+	 Temp mini = 	18
+1905  station: 00227070
+	 Temp maxi = 	20
+	 Temp mini = 	20
+1905  station: 29029070
+	 Temp maxi = 	17
+	 Temp mini = 	-22
+1905  station: 29029500
+	 Temp maxi = 	22
+	 Temp mini = 	-16
+1905  station: 29029600
+	 Temp maxi = 	27
+	 Temp mini = 	-28
+1905  station: 29029720
+	 Temp maxi = 	27
+	 Temp mini = 	-22
+1905  station: 29029810
+	 Temp maxi = 	22
+	 Temp mini = 	-10
+1905  station: 29227070
+	 Temp maxi = 	28
+	 Temp mini = 	-32
+1905  station: 35029070
+	 Temp maxi = 	16
+	 Temp mini = 	-12
+1905  station: 35029600
+	 Temp maxi = 	22
+	 Temp mini = 	-11
+1905  station: 35029720
+	 Temp maxi = 	18
+	 Temp mini = 	-10
+1905  station: 35029810
+	 Temp maxi = 	18
+	 Temp mini = 	-7
+1906  station: 00028750
+	 Temp maxi = 	-10
+	 Temp mini = 	-10
+1906  station: 00029820
+	 Temp maxi = 	7
+	 Temp mini = 	6
+1906  station: 00228920
+	 Temp maxi = 	11
+	 Temp mini = 	-6
+1906  station: 29028750
+	 Temp maxi = 	28
+	 Temp mini = 	-25
+1906  station: 29029170
+	 Temp maxi = 	27
+	 Temp mini = 	-22
+1906  station: 29029440
+	 Temp maxi = 	29
+	 Temp mini = 	-22
+1906  station: 29029820
+	 Temp maxi = 	26
+	 Temp mini = 	-14
+1906  station: 29228920
+	 Temp maxi = 	28
+	 Temp mini = 	-19
+1906  station: 35028750
+	 Temp maxi = 	21
+	 Temp mini = 	-14
+1906  station: 35029170
+	 Temp maxi = 	18
+	 Temp mini = 	-15
+1906  station: 35029440
+	 Temp maxi = 	26
+	 Temp mini = 	-13
+1906  station: 35029820
+	 Temp maxi = 	20
+	 Temp mini = 	-13
+1906  station: 35228920
+	 Temp maxi = 	21
+	 Temp mini = 	-15
+1906  station: 48028750
+	 Temp maxi = 	-6
+	 Temp mini = 	-6
+1906  station: 48228920
+	 Temp maxi = 	-4
+	 Temp mini = 	-4
+1907  station: 00228920
+	 Temp maxi = 	18
+	 Temp mini = 	2
+1907  station: 29028750
+	 Temp maxi = 	27
+	 Temp mini = 	-27
+1907  station: 29029170
+	 Temp maxi = 	25
+	 Temp mini = 	-31
+1907  station: 29029440
+	 Temp maxi = 	28
+	 Temp mini = 	-30
+1907  station: 29029820
+	 Temp maxi = 	27
+	 Temp mini = 	-25
+1907  station: 29228920
+	 Temp maxi = 	28
+	 Temp mini = 	-33
+1907  station: 35028750
+	 Temp maxi = 	17
+	 Temp mini = 	-14
+1907  station: 35029170
+	 Temp maxi = 	15
+	 Temp mini = 	-18
+1907  station: 35029440
+	 Temp maxi = 	20
+	 Temp mini = 	-14
+1907  station: 35029820
+	 Temp maxi = 	15
+	 Temp mini = 	-10
+1907  station: 35228920
+	 Temp maxi = 	18
+	 Temp mini = 	-16
+1907  station: 48029170
+	 Temp maxi = 	15
+	 Temp mini = 	-35
+1907  station: 48029820
+	 Temp maxi = 	13
+	 Temp mini = 	13
+1908  station: 00028060
+	 Temp maxi = 	-8
+	 Temp mini = 	-8
+1908  station: 00028750
+	 Temp maxi = 	-2
+	 Temp mini = 	-2
+1908  station: 00029170
+	 Temp maxi = 	6
+	 Temp mini = 	6
+1908  station: 00029440
+	 Temp maxi = 	0
+	 Temp mini = 	-1
+1908  station: 09028060
+	 Temp maxi = 	-5
+	 Temp mini = 	-5
+1908  station: 09228920
+	 Temp maxi = 	1
+	 Temp mini = 	1
+1908  station: 29028060
+	 Temp maxi = 	28
+	 Temp mini = 	-37
+1908  station: 29028750
+	 Temp maxi = 	26
+	 Temp mini = 	-30
+1908  station: 29029170
+	 Temp maxi = 	28
+	 Temp mini = 	-32
+1908  station: 29029440
+	 Temp maxi = 	28
+	 Temp mini = 	-27
+1908  station: 29029820
+	 Temp maxi = 	24
+	 Temp mini = 	-25
+1908  station: 29228920
+	 Temp maxi = 	28
+	 Temp mini = 	-28
+1908  station: 35028060
+	 Temp maxi = 	26
+	 Temp mini = 	-32
+1908  station: 35028750
+	 Temp maxi = 	17
+	 Temp mini = 	-14
+1908  station: 35029170
+	 Temp maxi = 	24
+	 Temp mini = 	-23
+1908  station: 35029440
+	 Temp maxi = 	28
+	 Temp mini = 	-19
+1908  station: 35029820
+	 Temp maxi = 	18
+	 Temp mini = 	-14
+1908  station: 35228920
+	 Temp maxi = 	20
+	 Temp mini = 	-14
+1909  station: 00029440
+	 Temp maxi = 	2
+	 Temp mini = 	2
+1909  station: 00029820
+	 Temp maxi = 	6
+	 Temp mini = 	0
+1909  station: 00228920
+	 Temp maxi = 	11
+	 Temp mini = 	0
+1909  station: 29028060
+	 Temp maxi = 	25
+	 Temp mini = 	-37
+1909  station: 29028690
+	 Temp maxi = 	26
+	 Temp mini = 	-35
+1909  station: 29028750
+	 Temp maxi = 	27
+	 Temp mini = 	-25
+1909  station: 29029170
+	 Temp maxi = 	27
+	 Temp mini = 	-23
+1909  station: 29029440
+	 Temp maxi = 	26
+	 Temp mini = 	-23
+1909  station: 29029820
+	 Temp maxi = 	26
+	 Temp mini = 	-16
+1909  station: 29228920
+	 Temp maxi = 	26
+	 Temp mini = 	-26
+1909  station: 35028060
+	 Temp maxi = 	25
+	 Temp mini = 	-25
+1909  station: 35028690
+	 Temp maxi = 	20
+	 Temp mini = 	-22
+1909  station: 35028750
+	 Temp maxi = 	17
+	 Temp mini = 	-13
+1909  station: 35029170
+	 Temp maxi = 	18
+	 Temp mini = 	-22
+1909  station: 35029440
+	 Temp maxi = 	22
+	 Temp mini = 	-15
+1909  station: 35029820
+	 Temp maxi = 	15
+	 Temp mini = 	-8
+1909  station: 35228920
+	 Temp maxi = 	21
+	 Temp mini = 	-15
+1909  station: 48028690
+	 Temp maxi = 	-1
+	 Temp mini = 	-11
+1909  station: 48029170
+	 Temp maxi = 	-3
+	 Temp mini = 	-3
+1909  station: 54028060
+	 Temp maxi = 	-2
+	 Temp mini = 	-2
+1910  station: 00028690
+	 Temp maxi = 	8
+	 Temp mini = 	-14
+1910  station: 00029170
+	 Temp maxi = 	13
+	 Temp mini = 	-3
+1910  station: 00228920
+	 Temp maxi = 	1
+	 Temp mini = 	-5
+1910  station: 09028690
+	 Temp maxi = 	-5
+	 Temp mini = 	-5
+1910  station: 09029170
+	 Temp maxi = 	6
+	 Temp mini = 	1
+1910  station: 19029820
+	 Temp maxi = 	2
+	 Temp mini = 	2
+1910  station: 29028060
+	 Temp maxi = 	23
+	 Temp mini = 	-37
+1910  station: 29028690
+	 Temp maxi = 	25
+	 Temp mini = 	-32
+1910  station: 29028750
+	 Temp maxi = 	28
+	 Temp mini = 	-26
+1910  station: 29029170
+	 Temp maxi = 	29
+	 Temp mini = 	-23
+1910  station: 29029440
+	 Temp maxi = 	28
+	 Temp mini = 	-26
+1910  station: 29029820
+	 Temp maxi = 	25
+	 Temp mini = 	-16
+1910  station: 29228920
+	 Temp maxi = 	29
+	 Temp mini = 	-26
+1910  station: 35028060
+	 Temp maxi = 	15
+	 Temp mini = 	-19
+1910  station: 35028690
+	 Temp maxi = 	16
+	 Temp mini = 	-17
+1910  station: 35028750
+	 Temp maxi = 	20
+	 Temp mini = 	-13
+1910  station: 35029170
+	 Temp maxi = 	21
+	 Temp mini = 	-16
+1910  station: 35029440
+	 Temp maxi = 	18
+	 Temp mini = 	-18
+1910  station: 35029820
+	 Temp maxi = 	17
+	 Temp mini = 	-15
+1910  station: 35228920
+	 Temp maxi = 	21
+	 Temp mini = 	-14
+1910  station: 46029440
+	 Temp maxi = 	1
+	 Temp mini = 	1
+1910  station: 48028060
+	 Temp maxi = 	6
+	 Temp mini = 	-7
+1911  station: 00028060
+	 Temp maxi = 	17
+	 Temp mini = 	-11
+1911  station: 00028690
+	 Temp maxi = 	19
+	 Temp mini = 	-27
+1911  station: 00028750
+	 Temp maxi = 	17
+	 Temp mini = 	-9
+1911  station: 00029170
+	 Temp maxi = 	12
+	 Temp mini = 	-2
+1911  station: 00029440
+	 Temp maxi = 	17
+	 Temp mini = 	-15
+1911  station: 00228920
+	 Temp maxi = 	17
+	 Temp mini = 	0
+1911  station: 09028060
+	 Temp maxi = 	10
+	 Temp mini = 	-1
+1911  station: 09028690
+	 Temp maxi = 	17
+	 Temp mini = 	-10
+1911  station: 09028750
+	 Temp maxi = 	13
+	 Temp mini = 	-4
+1911  station: 09029170
+	 Temp maxi = 	12
+	 Temp mini = 	0
+1911  station: 09029440
+	 Temp maxi = 	0
+	 Temp mini = 	-13
+1911  station: 29028060
+	 Temp maxi = 	23
+	 Temp mini = 	-37
+1911  station: 29028690
+	 Temp maxi = 	26
+	 Temp mini = 	-32
+1911  station: 29028750
+	 Temp maxi = 	28
+	 Temp mini = 	-27
+1911  station: 29029170
+	 Temp maxi = 	29
+	 Temp mini = 	-28
+1911  station: 29029440
+	 Temp maxi = 	30
+	 Temp mini = 	-29
+1911  station: 29029820
+	 Temp maxi = 	29
+	 Temp mini = 	-19
+1911  station: 29228920
+	 Temp maxi = 	29
+	 Temp mini = 	-28
+1911  station: 35028060
+	 Temp maxi = 	19
+	 Temp mini = 	-26
+1911  station: 35028690
+	 Temp maxi = 	22
+	 Temp mini = 	-16
+1911  station: 35028750
+	 Temp maxi = 	21
+	 Temp mini = 	-16
+1911  station: 35029170
+	 Temp maxi = 	24
+	 Temp mini = 	-18
+1911  station: 35029440
+	 Temp maxi = 	17
+	 Temp mini = 	-10
+1911  station: 35029820
+	 Temp maxi = 	11
+	 Temp mini = 	-6
+1911  station: 35228920
+	 Temp maxi = 	24
+	 Temp mini = 	-15
+1911  station: 46028060
+	 Temp maxi = 	20
+	 Temp mini = 	-2
+1911  station: 46028690
+	 Temp maxi = 	22
+	 Temp mini = 	-15
+1911  station: 46028750
+	 Temp maxi = 	22
+	 Temp mini = 	-5
+1911  station: 46029170
+	 Temp maxi = 	22
+	 Temp mini = 	-8
+1911  station: 46029440
+	 Temp maxi = 	21
+	 Temp mini = 	-7
+1911  station: 46029820
+	 Temp maxi = 	21
+	 Temp mini = 	-9
+1911  station: 46228920
+	 Temp maxi = 	25
+	 Temp mini = 	-7
+1911  station: 48028690
+	 Temp maxi = 	0
+	 Temp mini = 	0
+1911  station: 48029170
+	 Temp maxi = 	10
+	 Temp mini = 	10
+1911  station: 52028060
+	 Temp maxi = 	13
+	 Temp mini = 	-2
+1911  station: 52028690
+	 Temp maxi = 	13
+	 Temp mini = 	-5
+1911  station: 52028750
+	 Temp maxi = 	18
+	 Temp mini = 	-2
+1911  station: 52029170
+	 Temp maxi = 	14
+	 Temp mini = 	-5
+1911  station: 52029440
+	 Temp maxi = 	17
+	 Temp mini = 	0
+1911  station: 52029820
+	 Temp maxi = 	13
+	 Temp mini = 	0
+1911  station: 52228920
+	 Temp maxi = 	15
+	 Temp mini = 	0
+1911  station: 54028690
+	 Temp maxi = 	-2
+	 Temp mini = 	-5
+1912  station: 00028060
+	 Temp maxi = 	15
+	 Temp mini = 	-1
+1912  station: 00028750
+	 Temp maxi = 	30
+	 Temp mini = 	-19
+1912  station: 00029440
+	 Temp maxi = 	4
+	 Temp mini = 	2
+1912  station: 00029820
+	 Temp maxi = 	16
+	 Temp mini = 	-2
+1912  station: 00228920
+	 Temp maxi = 	17
+	 Temp mini = 	-5
+1912  station: 09028060
+	 Temp maxi = 	9
+	 Temp mini = 	-7
+1912  station: 09028750
+	 Temp maxi = 	15
+	 Temp mini = 	-8
+1912  station: 09029820
+	 Temp maxi = 	4
+	 Temp mini = 	-1
+1912  station: 09228920
+	 Temp maxi = 	1
+	 Temp mini = 	1
+1912  station: 20029440
+	 Temp maxi = 	2
+	 Temp mini = 	2
+1912  station: 29028060
+	 Temp maxi = 	27
+	 Temp mini = 	-38
+1912  station: 29028690
+	 Temp maxi = 	26
+	 Temp mini = 	-41
+1912  station: 29028750
+	 Temp maxi = 	31
+	 Temp mini = 	-36
+1912  station: 29029170
+	 Temp maxi = 	30
+	 Temp mini = 	-36
+1912  station: 29029440
+	 Temp maxi = 	30
+	 Temp mini = 	-30
+1912  station: 29029820
+	 Temp maxi = 	28
+	 Temp mini = 	-23
+1912  station: 29228920
+	 Temp maxi = 	32
+	 Temp mini = 	-35
+1912  station: 35028060
+	 Temp maxi = 	20
+	 Temp mini = 	-37
+1912  station: 35028690
+	 Temp maxi = 	23
+	 Temp mini = 	-23
+1912  station: 35028750
+	 Temp maxi = 	23
+	 Temp mini = 	-21
+1912  station: 35029170
+	 Temp maxi = 	20
+	 Temp mini = 	-25
+1912  station: 35029440
+	 Temp maxi = 	24
+	 Temp mini = 	-18
+1912  station: 35029820
+	 Temp maxi = 	18
+	 Temp mini = 	-12
+1912  station: 35228920
+	 Temp maxi = 	23
+	 Temp mini = 	-19
+1912  station: 46028060
+	 Temp maxi = 	17
+	 Temp mini = 	-17
+1912  station: 46028690
+	 Temp maxi = 	21
+	 Temp mini = 	-10
+1912  station: 46028750
+	 Temp maxi = 	23
+	 Temp mini = 	-8
+1912  station: 46029170
+	 Temp maxi = 	22
+	 Temp mini = 	-6
+1912  station: 46029440
+	 Temp maxi = 	21
+	 Temp mini = 	-10
+1912  station: 46029820
+	 Temp maxi = 	22
+	 Temp mini = 	-13
+1912  station: 46228920
+	 Temp maxi = 	27
+	 Temp mini = 	-2
+1912  station: 48228920
+	 Temp maxi = 	-17
+	 Temp mini = 	-17
+1912  station: 52028060
+	 Temp maxi = 	17
+	 Temp mini = 	-2
+1912  station: 52028690
+	 Temp maxi = 	12
+	 Temp mini = 	-12
+1912  station: 52028750
+	 Temp maxi = 	13
+	 Temp mini = 	-3
+1912  station: 52029170
+	 Temp maxi = 	15
+	 Temp mini = 	-6
+1912  station: 52029440
+	 Temp maxi = 	19
+	 Temp mini = 	1
+1912  station: 52029820
+	 Temp maxi = 	16
+	 Temp mini = 	-1
+1912  station: 52228920
+	 Temp maxi = 	15
+	 Temp mini = 	-1
+1912  station: 54029820
+	 Temp maxi = 	-10
+	 Temp mini = 	-10
+1913  station: 00028750
+	 Temp maxi = 	20
+	 Temp mini = 	-6
+1913  station: 09028750
+	 Temp maxi = 	13
+	 Temp mini = 	-9
+1913  station: 29028060
+	 Temp maxi = 	30
+	 Temp mini = 	-37
+1913  station: 29028690
+	 Temp maxi = 	27
+	 Temp mini = 	-36
+1913  station: 29028750
+	 Temp maxi = 	29
+	 Temp mini = 	-28
+1913  station: 29029170
+	 Temp maxi = 	26
+	 Temp mini = 	-25
+1913  station: 29029440
+	 Temp maxi = 	27
+	 Temp mini = 	-22
+1913  station: 29029820
+	 Temp maxi = 	28
+	 Temp mini = 	-19
+1913  station: 29040650
+	 Temp maxi = 	18
+	 Temp mini = 	-10
+1913  station: 29228920
+	 Temp maxi = 	26
+	 Temp mini = 	-25
+1913  station: 35028060
+	 Temp maxi = 	25
+	 Temp mini = 	-30
+1913  station: 35028690
+	 Temp maxi = 	23
+	 Temp mini = 	-19
+1913  station: 35028750
+	 Temp maxi = 	25
+	 Temp mini = 	-18
+1913  station: 35029170
+	 Temp maxi = 	23
+	 Temp mini = 	-17
+1913  station: 35029440
+	 Temp maxi = 	21
+	 Temp mini = 	-12
+1913  station: 35029820
+	 Temp maxi = 	19
+	 Temp mini = 	-12
+1913  station: 35040650
+	 Temp maxi = 	0
+	 Temp mini = 	0
+1913  station: 35228920
+	 Temp maxi = 	20
+	 Temp mini = 	-12
+1913  station: 42040650
+	 Temp maxi = 	15
+	 Temp mini = 	-13
+1913  station: 46028060
+	 Temp maxi = 	25
+	 Temp mini = 	-5
+1913  station: 46028690
+	 Temp maxi = 	23
+	 Temp mini = 	-13
+1913  station: 46028750
+	 Temp maxi = 	22
+	 Temp mini = 	-8
+1913  station: 46029170
+	 Temp maxi = 	22
+	 Temp mini = 	-6
+1913  station: 46029440
+	 Temp maxi = 	21
+	 Temp mini = 	-14
+1913  station: 46029820
+	 Temp maxi = 	21
+	 Temp mini = 	-10
+1913  station: 46228920
+	 Temp maxi = 	24
+	 Temp mini = 	-5
+1913  station: 48028690
+	 Temp maxi = 	-5
+	 Temp mini = 	-5
+1913  station: 48029170
+	 Temp maxi = 	10
+	 Temp mini = 	10
+1913  station: 48040650
+	 Temp maxi = 	3
+	 Temp mini = 	-7
+1913  station: 48228920
+	 Temp maxi = 	-1
+	 Temp mini = 	-1
+1913  station: 52028060
+	 Temp maxi = 	17
+	 Temp mini = 	-3
+1913  station: 52028690
+	 Temp maxi = 	15
+	 Temp mini = 	-3
+1913  station: 52028750
+	 Temp maxi = 	13
+	 Temp mini = 	3
+1913  station: 52029170
+	 Temp maxi = 	16
+	 Temp mini = 	-5
+1913  station: 52029440
+	 Temp maxi = 	15
+	 Temp mini = 	0
+1913  station: 52029820
+	 Temp maxi = 	16
+	 Temp mini = 	-3
+1913  station: 52228920
+	 Temp maxi = 	15
+	 Temp mini = 	0
+1913  station: 54028690
+	 Temp maxi = 	5
+	 Temp mini = 	5
+1913  station: 61040650
+	 Temp maxi = 	7
+	 Temp mini = 	-5
+1913  station: 65028750
+	 Temp maxi = 	13
+	 Temp mini = 	13
+1914  station: 00029170
+	 Temp maxi = 	10
+	 Temp mini = 	10
+1914  station: 29028060
+	 Temp maxi = 	30
+	 Temp mini = 	-37
+1914  station: 29028690
+	 Temp maxi = 	30
+	 Temp mini = 	-35
+1914  station: 29028750
+	 Temp maxi = 	29
+	 Temp mini = 	-29
+1914  station: 29029170
+	 Temp maxi = 	32
+	 Temp mini = 	-33
+1914  station: 29029440
+	 Temp maxi = 	32
+	 Temp mini = 	-27
+1914  station: 29029820
+	 Temp maxi = 	28
+	 Temp mini = 	-21
+1914  station: 29040650
+	 Temp maxi = 	17
+	 Temp mini = 	-10
+1914  station: 29228920
+	 Temp maxi = 	33
+	 Temp mini = 	-27
+1914  station: 35028060
+	 Temp maxi = 	12
+	 Temp mini = 	-17
+1914  station: 35028690
+	 Temp maxi = 	16
+	 Temp mini = 	-18
+1914  station: 35028750
+	 Temp maxi = 	18
+	 Temp mini = 	-13
+1914  station: 35029170
+	 Temp maxi = 	24
+	 Temp mini = 	-17
+1914  station: 35029440
+	 Temp maxi = 	25
+	 Temp mini = 	-12
+1914  station: 35029820
+	 Temp maxi = 	22
+	 Temp mini = 	-13
+1914  station: 35040650
+	 Temp maxi = 	2
+	 Temp mini = 	2
+1914  station: 35228920
+	 Temp maxi = 	18
+	 Temp mini = 	-13
+1914  station: 42040650
+	 Temp maxi = 	16
+	 Temp mini = 	-11
+1914  station: 46028060
+	 Temp maxi = 	26
+	 Temp mini = 	-6
+1914  station: 46028690
+	 Temp maxi = 	25
+	 Temp mini = 	-9
+1914  station: 46028750
+	 Temp maxi = 	23
+	 Temp mini = 	-17
+1914  station: 46029170
+	 Temp maxi = 	26
+	 Temp mini = 	-11
+1914  station: 46029440
+	 Temp maxi = 	23
+	 Temp mini = 	-15
+1914  station: 46029820
+	 Temp maxi = 	22
+	 Temp mini = 	-5
+1914  station: 46228920
+	 Temp maxi = 	25
+	 Temp mini = 	-7
+1914  station: 48028060
+	 Temp maxi = 	9
+	 Temp mini = 	-6
+1914  station: 48028690
+	 Temp maxi = 	7
+	 Temp mini = 	-10
+1914  station: 48040650
+	 Temp maxi = 	2
+	 Temp mini = 	2
+1914  station: 52028060
+	 Temp maxi = 	12
+	 Temp mini = 	0
+1914  station: 52028690
+	 Temp maxi = 	13
+	 Temp mini = 	0
+1914  station: 52028750
+	 Temp maxi = 	19
+	 Temp mini = 	1
+1914  station: 52029170
+	 Temp maxi = 	13
+	 Temp mini = 	-3
+1914  station: 52029440
+	 Temp maxi = 	12
+	 Temp mini = 	0
+1914  station: 52029820
+	 Temp maxi = 	21
+	 Temp mini = 	0
+1914  station: 52228920
+	 Temp maxi = 	14
+	 Temp mini = 	1
+1914  station: 54028690
+	 Temp maxi = 	1
+	 Temp mini = 	1
+1914  station: 61040650
+	 Temp maxi = 	5
+	 Temp mini = 	-8
+1914  station: 71028690
+	 Temp maxi = 	3
+	 Temp mini = 	3
+1915  station: 00028060
+	 Temp maxi = 	8
+	 Temp mini = 	8
+1915  station: 00029820
+	 Temp maxi = 	6
+	 Temp mini = 	6
+1915  station: 29028060
+	 Temp maxi = 	27
+	 Temp mini = 	-36
+1915  station: 29028690
+	 Temp maxi = 	26
+	 Temp mini = 	-41
+1915  station: 29028750
+	 Temp maxi = 	29
+	 Temp mini = 	-30
+1915  station: 29029170
+	 Temp maxi = 	28
+	 Temp mini = 	-32
+1915  station: 29029440
+	 Temp maxi = 	27
+	 Temp mini = 	-28
+1915  station: 29029820
+	 Temp maxi = 	25
+	 Temp mini = 	-22
+1915  station: 29040650
+	 Temp maxi = 	13
+	 Temp mini = 	-15
+1915  station: 29228920
+	 Temp maxi = 	28
+	 Temp mini = 	-30
+1915  station: 35028060
+	 Temp maxi = 	21
+	 Temp mini = 	-40
+1915  station: 35028690
+	 Temp maxi = 	15
+	 Temp mini = 	-21
+1915  station: 35028750
+	 Temp maxi = 	21
+	 Temp mini = 	-18
+1915  station: 35029170
+	 Temp maxi = 	18
+	 Temp mini = 	-37
+1915  station: 35029440
+	 Temp maxi = 	18
+	 Temp mini = 	-20
+1915  station: 35029820
+	 Temp maxi = 	17
+	 Temp mini = 	-22
+1915  station: 35228920
+	 Temp maxi = 	23
+	 Temp mini = 	-26
+1915  station: 42040650
+	 Temp maxi = 	11
+	 Temp mini = 	-17
+1915  station: 46028060
+	 Temp maxi = 	24
+	 Temp mini = 	-11
+1915  station: 46028690
+	 Temp maxi = 	20
+	 Temp mini = 	-7
+1915  station: 46028750
+	 Temp maxi = 	23
+	 Temp mini = 	-3
+1915  station: 46029170
+	 Temp maxi = 	22
+	 Temp mini = 	-8
+1915  station: 46029440
+	 Temp maxi = 	20
+	 Temp mini = 	-4
+1915  station: 46029820
+	 Temp maxi = 	18
+	 Temp mini = 	-10
+1915  station: 46228920
+	 Temp maxi = 	25
+	 Temp mini = 	-4
+1915  station: 48028690
+	 Temp maxi = 	7
+	 Temp mini = 	6
+1915  station: 48040650
+	 Temp maxi = 	10
+	 Temp mini = 	-2
+1915  station: 52028060
+	 Temp maxi = 	12
+	 Temp mini = 	-12
+1915  station: 52028690
+	 Temp maxi = 	17
+	 Temp mini = 	-1
+1915  station: 52028750
+	 Temp maxi = 	9
+	 Temp mini = 	0
+1915  station: 52029170
+	 Temp maxi = 	20
+	 Temp mini = 	1
+1915  station: 52029440
+	 Temp maxi = 	14
+	 Temp mini = 	1
+1915  station: 52029820
+	 Temp maxi = 	13
+	 Temp mini = 	1
+1915  station: 52228920
+	 Temp maxi = 	15
+	 Temp mini = 	0
+1915  station: 54028690
+	 Temp maxi = 	1
+	 Temp mini = 	1
+1915  station: 61040650
+	 Temp maxi = 	6
+	 Temp mini = 	-12
+1916  station: 29028970
+	 Temp maxi = 	27
+	 Temp mini = 	-28
+1916  station: 29040650
+	 Temp maxi = 	17
+	 Temp mini = 	-13
+1916  station: 35028970
+	 Temp maxi = 	19
+	 Temp mini = 	-18
+1916  station: 42040650
+	 Temp maxi = 	13
+	 Temp mini = 	-15
+1916  station: 46028970
+	 Temp maxi = 	22
+	 Temp mini = 	-8
+1916  station: 52028970
+	 Temp maxi = 	12
+	 Temp mini = 	-2
+1916  station: 61040650
+	 Temp maxi = 	5
+	 Temp mini = 	-6
+1916  station: 77040650
+	 Temp maxi = 	1
+	 Temp mini = 	1
+1917  station: 00029700
+	 Temp maxi = 	11
+	 Temp mini = 	11
+1917  station: 29028360
+	 Temp maxi = 	27
+	 Temp mini = 	-47
+1917  station: 29028970
+	 Temp maxi = 	28
+	 Temp mini = 	-36
+1917  station: 29029110
+	 Temp maxi = 	30
+	 Temp mini = 	-28
+1917  station: 29029350
+	 Temp maxi = 	31
+	 Temp mini = 	-35
+1917  station: 29029700
+	 Temp maxi = 	26
+	 Temp mini = 	-23
+1917  station: 29029750
+	 Temp maxi = 	26
+	 Temp mini = 	-26
+1917  station: 29040650
+	 Temp maxi = 	21
+	 Temp mini = 	-16
+1917  station: 29228020
+	 Temp maxi = 	28
+	 Temp mini = 	-32
+1917  station: 35028360
+	 Temp maxi = 	16
+	 Temp mini = 	-40
+1917  station: 35028970
+	 Temp maxi = 	20
+	 Temp mini = 	-26
+1917  station: 35029110
+	 Temp maxi = 	25
+	 Temp mini = 	-16
+1917  station: 35029350
+	 Temp maxi = 	25
+	 Temp mini = 	-22
+1917  station: 35029700
+	 Temp maxi = 	22
+	 Temp mini = 	-11
+1917  station: 35029750
+	 Temp maxi = 	19
+	 Temp mini = 	-21
+1917  station: 35228020
+	 Temp maxi = 	18
+	 Temp mini = 	-19
+1917  station: 42040650
+	 Temp maxi = 	20
+	 Temp mini = 	-17
+1917  station: 46028360
+	 Temp maxi = 	20
+	 Temp mini = 	-6
+1917  station: 46028970
+	 Temp maxi = 	22
+	 Temp mini = 	-5
+1917  station: 46029110
+	 Temp maxi = 	19
+	 Temp mini = 	-4
+1917  station: 46029350
+	 Temp maxi = 	23
+	 Temp mini = 	-6
+1917  station: 46029700
+	 Temp maxi = 	22
+	 Temp mini = 	-5
+1917  station: 46029750
+	 Temp maxi = 	21
+	 Temp mini = 	-11
+1917  station: 46228020
+	 Temp maxi = 	22
+	 Temp mini = 	-3
+1917  station: 48028360
+	 Temp maxi = 	-5
+	 Temp mini = 	-5
+1917  station: 48029750
+	 Temp maxi = 	-5
+	 Temp mini = 	-5
+1917  station: 48040650
+	 Temp maxi = 	5
+	 Temp mini = 	1
+1917  station: 48228020
+	 Temp maxi = 	6
+	 Temp mini = 	6
+1917  station: 52028360
+	 Temp maxi = 	12
+	 Temp mini = 	0
+1917  station: 52028970
+	 Temp maxi = 	13
+	 Temp mini = 	-4
+1917  station: 52029110
+	 Temp maxi = 	21
+	 Temp mini = 	-5
+1917  station: 52029350
+	 Temp maxi = 	16
+	 Temp mini = 	0
+1917  station: 52029700
+	 Temp maxi = 	18
+	 Temp mini = 	-3
+1917  station: 52029750
+	 Temp maxi = 	18
+	 Temp mini = 	0
+1917  station: 52228020
+	 Temp maxi = 	19
+	 Temp mini = 	3
+1917  station: 54028360
+	 Temp maxi = 	-14
+	 Temp mini = 	-14
+1917  station: 61040650
+	 Temp maxi = 	7
+	 Temp mini = 	-12
+1918  station: 00028360
+	 Temp maxi = 	-3
+	 Temp mini = 	-32
+1918  station: 00028970
+	 Temp maxi = 	15
+	 Temp mini = 	8
+1918  station: 00029350
+	 Temp maxi = 	7
+	 Temp mini = 	-5
+1918  station: 00029700
+	 Temp maxi = 	20
+	 Temp mini = 	-12
+1918  station: 00029750
+	 Temp maxi = 	3
+	 Temp mini = 	-8
+1918  station: 00228020
+	 Temp maxi = 	6
+	 Temp mini = 	4
+1918  station: 09029350
+	 Temp maxi = 	0
+	 Temp mini = 	-18
+1918  station: 09029700
+	 Temp maxi = 	1
+	 Temp mini = 	-1
+1918  station: 09029750
+	 Temp maxi = 	3
+	 Temp mini = 	-9
+1918  station: 20028970
+	 Temp maxi = 	11
+	 Temp mini = 	8
+1918  station: 29028360
+	 Temp maxi = 	26
+	 Temp mini = 	-45
+1918  station: 29028970
+	 Temp maxi = 	28
+	 Temp mini = 	-36
+1918  station: 29029110
+	 Temp maxi = 	25
+	 Temp mini = 	-28
+1918  station: 29029350
+	 Temp maxi = 	29
+	 Temp mini = 	-35
+1918  station: 29029700
+	 Temp maxi = 	27
+	 Temp mini = 	-21
+1918  station: 29029750
+	 Temp maxi = 	27
+	 Temp mini = 	-30
+1918  station: 29040650
+	 Temp maxi = 	17
+	 Temp mini = 	-27
+1918  station: 29228020
+	 Temp maxi = 	32
+	 Temp mini = 	-32
+1918  station: 35028360
+	 Temp maxi = 	20
+	 Temp mini = 	-38
+1918  station: 35028970
+	 Temp maxi = 	17
+	 Temp mini = 	-33
+1918  station: 35029110
+	 Temp maxi = 	26
+	 Temp mini = 	-22
+1918  station: 35029350
+	 Temp maxi = 	16
+	 Temp mini = 	-21
+1918  station: 35029700
+	 Temp maxi = 	16
+	 Temp mini = 	-17
+1918  station: 35029750
+	 Temp maxi = 	22
+	 Temp mini = 	-20
+1918  station: 35228020
+	 Temp maxi = 	19
+	 Temp mini = 	-22
+1918  station: 42040650
+	 Temp maxi = 	13
+	 Temp mini = 	-30
+1918  station: 46028360
+	 Temp maxi = 	20
+	 Temp mini = 	-8
+1918  station: 46028970
+	 Temp maxi = 	24
+	 Temp mini = 	-4
+1918  station: 46029110
+	 Temp maxi = 	22
+	 Temp mini = 	-7
+1918  station: 46029350
+	 Temp maxi = 	24
+	 Temp mini = 	-13
+1918  station: 46029700
+	 Temp maxi = 	23
+	 Temp mini = 	-5
+1918  station: 46029750
+	 Temp maxi = 	22
+	 Temp mini = 	-8
+1918  station: 46228020
+	 Temp maxi = 	25
+	 Temp mini = 	-10
+1918  station: 48029750
+	 Temp maxi = 	18
+	 Temp mini = 	-10
+1918  station: 48040650
+	 Temp maxi = 	-2
+	 Temp mini = 	-13
+1918  station: 48228020
+	 Temp maxi = 	6
+	 Temp mini = 	6
+1918  station: 52028360
+	 Temp maxi = 	13
+	 Temp mini = 	-4
+1918  station: 52028970
+	 Temp maxi = 	16
+	 Temp mini = 	6
+1918  station: 52029110
+	 Temp maxi = 	16
+	 Temp mini = 	-5
+1918  station: 52029350
+	 Temp maxi = 	12
+	 Temp mini = 	-8
+1918  station: 52029700
+	 Temp maxi = 	15
+	 Temp mini = 	-5
+1918  station: 52029750
+	 Temp maxi = 	16
+	 Temp mini = 	-15
+1918  station: 52228020
+	 Temp maxi = 	21
+	 Temp mini = 	2
+1918  station: 54029750
+	 Temp maxi = 	1
+	 Temp mini = 	-15
+1918  station: 61040650
+	 Temp maxi = 	5
+	 Temp mini = 	-15
+1918  station: 65029750
+	 Temp maxi = 	22
+	 Temp mini = 	1
+1918  station: 77040650
+	 Temp maxi = 	0
+	 Temp mini = 	-3
+1919  station: 29028360
+	 Temp maxi = 	28
+	 Temp mini = 	-42
+1919  station: 29029110
+	 Temp maxi = 	27
+	 Temp mini = 	-25
+1919  station: 29029350
+	 Temp maxi = 	28
+	 Temp mini = 	-35
+1919  station: 29029700
+	 Temp maxi = 	26
+	 Temp mini = 	-17
+1919  station: 29029750
+	 Temp maxi = 	26
+	 Temp mini = 	-26
+1919  station: 29040650
+	 Temp maxi = 	17
+	 Temp mini = 	-18
+1919  station: 29228020
+	 Temp maxi = 	28
+	 Temp mini = 	-36
+1919  station: 35028360
+	 Temp maxi = 	19
+	 Temp mini = 	-30
+1919  station: 35029110
+	 Temp maxi = 	24
+	 Temp mini = 	-16
+1919  station: 35029350
+	 Temp maxi = 	26
+	 Temp mini = 	-22
+1919  station: 35029700
+	 Temp maxi = 	20
+	 Temp mini = 	-9
+1919  station: 35029750
+	 Temp maxi = 	25
+	 Temp mini = 	-25
+1919  station: 35040650
+	 Temp maxi = 	15
+	 Temp mini = 	-13
+1919  station: 35228020
+	 Temp maxi = 	28
+	 Temp mini = 	-23
+1919  station: 42040650
+	 Temp maxi = 	12
+	 Temp mini = 	-18
+1919  station: 46028360
+	 Temp maxi = 	20
+	 Temp mini = 	-7
+1919  station: 46029110
+	 Temp maxi = 	22
+	 Temp mini = 	-11
+1919  station: 46029350
+	 Temp maxi = 	23
+	 Temp mini = 	-10
+1919  station: 46029700
+	 Temp maxi = 	22
+	 Temp mini = 	-6
+1919  station: 46029750
+	 Temp maxi = 	22
+	 Temp mini = 	-11
+1919  station: 46228020
+	 Temp maxi = 	23
+	 Temp mini = 	-4
+1919  station: 48028360
+	 Temp maxi = 	-16
+	 Temp mini = 	-16
+1919  station: 48029750
+	 Temp maxi = 	20
+	 Temp mini = 	-6
+1919  station: 48040650
+	 Temp maxi = 	37
+	 Temp mini = 	-11
+1919  station: 52028360
+	 Temp maxi = 	16
+	 Temp mini = 	-1
+1919  station: 52029110
+	 Temp maxi = 	16
+	 Temp mini = 	0
+1919  station: 52029350
+	 Temp maxi = 	19
+	 Temp mini = 	0
+1919  station: 52029700
+	 Temp maxi = 	14
+	 Temp mini = 	-6
+1919  station: 52029750
+	 Temp maxi = 	15
+	 Temp mini = 	-8
+1919  station: 52228020
+	 Temp maxi = 	16
+	 Temp mini = 	2
+1919  station: 61040650
+	 Temp maxi = 	7
+	 Temp mini = 	-16
+1919  station: 65029750
+	 Temp maxi = 	17
+	 Temp mini = 	10
+1919  station: 67040650
+	 Temp maxi = 	5
+	 Temp mini = 	-1
+1920  station: 00029700
+	 Temp maxi = 	10
+	 Temp mini = 	7
+1920  station: 20029700
+	 Temp maxi = 	10
+	 Temp mini = 	4
+1920  station: 29028360
+	 Temp maxi = 	27
+	 Temp mini = 	-34
+1920  station: 29028970
+	 Temp maxi = 	27
+	 Temp mini = 	-26
+1920  station: 29029110
+	 Temp maxi = 	28
+	 Temp mini = 	-21
+1920  station: 29029350
+	 Temp maxi = 	29
+	 Temp mini = 	-28
+1920  station: 29029700
+	 Temp maxi = 	27
+	 Temp mini = 	-13
+1920  station: 29029750
+	 Temp maxi = 	27
+	 Temp mini = 	-19
+1920  station: 29040650
+	 Temp maxi = 	17
+	 Temp mini = 	-12
+1920  station: 29228020
+	 Temp maxi = 	29
+	 Temp mini = 	-27
+1920  station: 35028360
+	 Temp maxi = 	22
+	 Temp mini = 	-31
+1920  station: 35028970
+	 Temp maxi = 	20
+	 Temp mini = 	-15
+1920  station: 35029110
+	 Temp maxi = 	22
+	 Temp mini = 	-15
+1920  station: 35029350
+	 Temp maxi = 	19
+	 Temp mini = 	-17
+1920  station: 35029700
+	 Temp maxi = 	15
+	 Temp mini = 	-8
+1920  station: 35029750
+	 Temp maxi = 	20
+	 Temp mini = 	-15
+1920  station: 35040650
+	 Temp maxi = 	10
+	 Temp mini = 	-7
+1920  station: 35228020
+	 Temp maxi = 	22
+	 Temp mini = 	-14
+1920  station: 42040650
+	 Temp maxi = 	12
+	 Temp mini = 	-10
+1920  station: 46028360
+	 Temp maxi = 	21
+	 Temp mini = 	-13
+1920  station: 46028970
+	 Temp maxi = 	21
+	 Temp mini = 	-12
+1920  station: 46029110
+	 Temp maxi = 	22
+	 Temp mini = 	-5
+1920  station: 46029350
+	 Temp maxi = 	20
+	 Temp mini = 	0
+1920  station: 46029700
+	 Temp maxi = 	23
+	 Temp mini = 	-5
+1920  station: 46029750
+	 Temp maxi = 	23
+	 Temp mini = 	-5
+1920  station: 46228020
+	 Temp maxi = 	23
+	 Temp mini = 	-8
+1920  station: 48040650
+	 Temp maxi = 	10
+	 Temp mini = 	-10
+1920  station: 52028360
+	 Temp maxi = 	15
+	 Temp mini = 	-13
+1920  station: 52028970
+	 Temp maxi = 	13
+	 Temp mini = 	-1
+1920  station: 52029110
+	 Temp maxi = 	14
+	 Temp mini = 	-1
+1920  station: 52029350
+	 Temp maxi = 	17
+	 Temp mini = 	0
+1920  station: 52029700
+	 Temp maxi = 	15
+	 Temp mini = 	-4
+1920  station: 52029750
+	 Temp maxi = 	16
+	 Temp mini = 	-2
+1920  station: 52228020
+	 Temp maxi = 	16
+	 Temp mini = 	3
+1920  station: 54028360
+	 Temp maxi = 	-1
+	 Temp mini = 	-1
+1920  station: 54040650
+	 Temp maxi = 	-2
+	 Temp mini = 	-2
+1920  station: 61040650
+	 Temp maxi = 	5
+	 Temp mini = 	-7
+1920  station: 67040650
+	 Temp maxi = 	-1
+	 Temp mini = 	-5
+1920  station: 83040650
+	 Temp maxi = 	5
+	 Temp mini = 	-2
